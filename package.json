@@ -1,0 +1,16 @@
+{
+    "name": "usea4doks",
+    "version": "1.0.0",
+    "description": "sample project",
+    "scripts": {
+      "start": "a4doks start",
+      "clean": "a4doks clean"
+    },
+    "keywords": [],
+    "author": "A4Doks",
+    "license": "ISC",
+    "dependencies": {
+        "a4doks": "file:../cli/a4doks-1.0.0.tgz"
+    }
+  }
+  
